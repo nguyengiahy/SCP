@@ -1,0 +1,6 @@
+numpy
+torch
+transformers
+imageio[ffmpeg]
+tensorboard
+tensorflow
